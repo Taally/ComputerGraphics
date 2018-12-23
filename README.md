@@ -1,0 +1,2 @@
+# GomputerGraphics
+third individual task
